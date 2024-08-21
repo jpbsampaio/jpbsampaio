@@ -5,7 +5,7 @@
 
 - 🌱 I’m learning **Next.JS**
 
-- 💬 Ask me about **AI or react**
+- 💬 Ask me about **AI or React**
 
 - 📫 How to reach me **jpbsampaio63@gmail.com**
 
