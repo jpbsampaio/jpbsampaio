@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João Paulo</h1>
+<h1 align="center">Hi, I'm João Paulo</h1>
 <h3 align="center">an AI enthusiast and full stack developer</h3>
 
 - 🔭 I’m currently working on [Banese](https://www.linkedin.com/company/banese-se/mycompany/)
