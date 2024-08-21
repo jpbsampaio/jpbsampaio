@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Banese](https://www.linkedin.com/company/banese-se/mycompany/)
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m learning **Next.JS**
 
 - 💬 Ask me about **AI or react**
 
