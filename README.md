@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=035666&height=120&section=header"/>
+
 <h1 align="center">Hi, I'm João Paulo</h1>
 <h3 align="center">an AI enthusiast and full stack developer</h3>
 
